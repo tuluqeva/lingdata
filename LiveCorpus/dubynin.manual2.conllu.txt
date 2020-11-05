@@ -1,6 +1,6 @@
-﻿# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe									
-# udpipe_model = russian-syntagrus-ud-2.6-200830									
-# udpipe_model_licence = CC BY-NC-SA									
+﻿# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = russian-syntagrus-ud-2.6-200830
+# udpipe_model_licence = CC BY-NC-SA
 1	эээ	эээ	INTJ	_	_	_	_	_	words@mvs1985m#@mvs1985m#0.184#0.407
 2	/	/	PUNCT	_	_	_	_	_	words@mvs1985m#@mvs1985m#0.407#0.63
 3	/	/	PUNCT	_	_	_	_	_	words@mvs1985m#@mvs1985m#0.63#0.853
@@ -41,12 +41,12 @@
 38	у	у	ADP	_	_	_	_	_	words@mvs1985m#@mvs1985m#8.435#8.658
 39	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2	_	_	_	words@mvs1985m#@mvs1985m#8.658#8.881
 40	вечером	вечер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@mvs1985m#@mvs1985m#8.881#9.104
-41	ещё	еще	ADV	_	_	_	_	_	words@mvs1985m#@mvs1985m#9.104#9.327
+41	ещё	еще	ADV	_	Degree=Pos	_	_	_	words@mvs1985m#@mvs1985m#9.104#9.327
 42	ответа	ответ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@mvs1985m#@mvs1985m#9.327#9.55
 43	не	не	PART	_	_	_	_	_	words@mvs1985m#@mvs1985m#9.55#9.773
 44	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@mvs1985m#@mvs1985m#9.773#9.996
-45	/	/	PUNCT	_	_	_	_	words@mvs1985m#@mvs1985m#9.996#10.219	
-46	/	/	PUNCT	_	_	_	_	words@mvs1985m#@mvs1985m#10.219#10.442	
+45	/	/	PUNCT	_	_	_	_	words@mvs1985m#@mvs1985m#9.996#10.219
+46	/	/	PUNCT	_	_	_	_	words@mvs1985m#@mvs1985m#10.219#10.442
 47	вот	вот	PART	_	_	_	_	_	words@mvs1985m#@mvs1985m#10.442#10.665
 48	ааа	ааа	INTJ	_	_	_	_	_	words@mvs1985m#@mvs1985m#10.665#10.888
 49	в	в	ADP	_	_	_	_	_	words@mvs1985m#@mvs1985m#10.888#11.111
@@ -307,7 +307,7 @@
 304	внешнего	внешний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vad1961m#@vad1961m#45.186#45.468
 305	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@vad1961m#@vad1961m#45.468#45.764
 306	и	и	CCONJ	_	_	_	_	_	words@vad1961m#@vad1961m#46.494#46.794
-307	дальше	дальше	ADV	_	_	_	_	_	words@vad1961m#@vad1961m#46.794#47.094
+307	дальше	дальше	ADV	_	Degree=Pos	_	_	_	words@vad1961m#@vad1961m#46.794#47.094
 308	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@vad1961m#@vad1961m#47.094#47.394
 309	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@vad1961m#@vad1961m#47.394#47.694
 310	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#47.694#47.994
@@ -647,7 +647,7 @@
 644	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#150.559#150.826
 645	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#150.826#151.093
 646	показано	показать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	words@vad1961m#@vad1961m#151.093#151.36
-647	что	что	SCONJ	_	Case=Nom	_	_	_	words@vad1961m#@vad1961m#151.36#151.627
+647	что	что	SCONJ	_	_	_	_	_	words@vad1961m#@vad1961m#151.36#151.627
 648	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#151.627#151.894
 649	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#151.894#152.161
 650	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@vad1961m#@vad1961m#152.161#152.428
@@ -660,7 +660,7 @@
 657	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#154.639#154.954
 658	ууу	ууу	INTJ	_	_	_	_	_	words@vad1961m#@vad1961m#154.954#155.269
 659	одна	один	DET	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vad1961m#@vad1961m#155.269#155.584
-660	там	там	PART	_	Degree=Pos	_	_	_	words@vad1961m#@vad1961m#155.584#155.899
+660	там	там	PART	_	_	_	_	_	words@vad1961m#@vad1961m#155.584#155.899
 661	не	не	PART	_	_	_	_	_	words@vad1961m#@vad1961m#155.899#156.214
 662	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vad1961m#@vad1961m#156.214#156.529
 663	шимпанзе	шимпанзе	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vad1961m#@vad1961m#156.529#156.844
@@ -701,12 +701,12 @@
 698	ругаются	ругаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vad1961m#@vad1961m#166.765#167.03
 699	ну	ну	PART	_	_	_	_	_	words@vad1961m#@vad1961m#167.273#167.563
 700	например	например	ADV	_	Degree=Pos	_	_	_	words@vad1961m#@vad1961m#167.563#167.853
-701	там	там	PART	_	Degree=Pos	_	_	_	words@vad1961m#@vad1961m#167.853#168.143
+701	там	там	PART	_	_	_	_	_	words@vad1961m#@vad1961m#167.853#168.143
 702	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#168.143#168.433
 703	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#168.433#168.723
 704	служитель	служитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vad1961m#@vad1961m#168.723#169.013
 705	обидел	обидеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vad1961m#@vad1961m#169.013#169.303
-706	шимпанзе	шимпанзе	NOUN	_	Animacy=Anim|Case=Act|Gender=Masc|Number=Sing	_	_	_	words@vad1961m#@vad1961m#169.303#169.593
+706	шимпанзе	шимпанзе	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vad1961m#@vad1961m#169.303#169.593
 707	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#169.593#169.883
 708	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#169.883#170.173
 709	и	и	CCONJ	_	_	_	_	_	words@vad1961m#@vad1961m#170.173#170.463
@@ -837,9 +837,9 @@
 834	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#211.332#211.622
 835	то-то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vad1961m#@vad1961m#211.622#211.912
 836	и	и	CCONJ	_	_	_	_	_	words@vad1961m#@vad1961m#211.912#212.202
-837	то-то	то	ADV	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vad1961m#@vad1961m#212.202#212.492
+837	то-то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vad1961m#@vad1961m#212.202#212.492
 838	и	и	CCONJ	_	_	_	_	_	words@vad1961m#@vad1961m#212.492#212.782
-839	то-то	то	ADV	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vad1961m#@vad1961m#212.782#213.072
+839	то-то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vad1961m#@vad1961m#212.782#213.072
 840	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vad1961m#@vad1961m#213.072#213.362
 841	сделаю	делать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@vad1961m#@vad1961m#213.362#213.652
 842	в	в	ADP	_	_	_	_	_	words@vad1961m#@vad1961m#213.652#213.942
@@ -893,7 +893,7 @@
 890	понятно	понятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@vad1961m#@vad1961m#228.662#228.924
 891	что	что	SCONJ	_	_	_	_	_	words@vad1961m#@vad1961m#228.924#229.186
 892	если	если	SCONJ	_	_	_	_	_	words@vad1961m#@vad1961m#229.186#229.448
-893	надо	надо 	VERB	_	_	_	_	_	words@vad1961m#@vad1961m#229.448#229.71
+893	надо	надо	VERB	_	_	_	_	_	words@vad1961m#@vad1961m#229.448#229.71
 894	там	там	PART	_	_	_	_	_	words@vad1961m#@vad1961m#229.71#229.972
 895	не	не	PART	_	_	_	_	_	words@vad1961m#@vad1961m#229.972#230.234
 896	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vad1961m#@vad1961m#230.234#230.496
@@ -1136,9 +1136,9 @@
 1133	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vad1961m#@vad1961m#318.341#318.747
 1134	непростая	непростой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vad1961m#@vad1961m#318.747#319.153
 1135	штука	штука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vad1961m#@vad1961m#319.153#319.566
-1136	хотя	хотя	SCONJ	_		_	_	_	words@vad1961m#@vad1961m#319.791#320.088
+1136	хотя	хотя	SCONJ	_	_	_	_	_	words@vad1961m#@vad1961m#319.791#320.088
 1137	даже	даже	PART	_	_	_	_	_	words@vad1961m#@vad1961m#320.088#320.385
-1138	попугаи	попугай	NOUN	_	Animacy=Anim|Case=Nom|GenderMasc|Number=Plur	_	_	_	words@vad1961m#@vad1961m#320.385#320.682
+1138	попугаи	попугай	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@vad1961m#@vad1961m#320.385#320.682
 1139	между	между	ADP	_	_	_	_	_	words@vad1961m#@vad1961m#320.682#320.979
 1140	прочим	прочее	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@vad1961m#@vad1961m#320.979#321.276
 1141	/	/	PUNCT	_	_	_	_	_	words@vad1961m#@vad1961m#321.276#321.573
