@@ -1,6 +1,6 @@
 ﻿# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe									
 # udpipe_model = russian-syntagrus-ud-2.6-200830									
-# udpipe_model_licence = CC BY-NC-SA									
+# udpipe_model_licence = CC BY-NC-SA								
 1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ayk1984m#@ayk1984m#0.29#0.472
 2	на	на	ADP	_	_	_	_	_	words@ayk1984m#@ayk1984m#0.472#0.654
 3	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#0.654#0.836
@@ -32,13 +32,13 @@
 29	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ayk1984m#@ayk1984m#19.153#19.474
 30	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@ayk1984m#@ayk1984m#19.474#19.795
 31	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#19.795#20.116
-32	плодо...	плодотворный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing 	_	_	_	words@ayk1984m#@ayk1984m#20.116#20.437
-33	пло...	плодотворный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing     	_	_	_	words@ayk1984m#@ayk1984m#20.437#20.758
-34	плодотворный	плодотворный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing 	_	_	_	words@ayk1984m#@ayk1984m#20.758#21.079
+32	плодо...	плодотворный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#20.116#20.437
+33	пло...	плодотворный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#20.437#20.758
+34	плодотворный	плодотворный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#20.758#21.079
 35	типа	типа	PART	_	_	_	_	_	words@ayk1984m#@ayk1984m#21.079#21.4
 36	занят...	занять	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	words@ayk1984m#@ayk1984m#21.4#21.721
 37	занятый	занять	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	words@ayk1984m#@ayk1984m#21.721#22.05
-38	се...	серьезный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur  	_	_	_	words@ayk1984m#@ayk1984m#27.33#27.774
+38	се...	серьезный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	words@ayk1984m#@ayk1984m#27.33#27.774
 39	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ayk1984m#@ayk1984m#27.774#28.218
 40	поделиться	поделиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@ayk1984m#@ayk1984m#28.218#28.662
 41	серьезными	серьезный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	words@ayk1984m#@ayk1984m#28.662#29.106
@@ -89,7 +89,7 @@
 86	/	/	PUNCT	_	_	_	_	_	words@ayk1984m#@ayk1984m#49.275#49.575
 87	эту	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#49.575#49.875
 88	задачу	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#49.875#50.175
-89	надо	надо	VERB	_		_	_	_	words@ayk1984m#@ayk1984m#50.175#50.475
+89	надо	надо	VERB	_	_	_	_	_	words@ayk1984m#@ayk1984m#50.175#50.475
 90	как-то	как-то	ADV	_	Degree=Pos	_	_	_	words@ayk1984m#@ayk1984m#50.475#50.775
 91	решать	решать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ayk1984m#@ayk1984m#50.775#51.075
 92	/	/	PUNCT	_	_	_	_	_	words@ayk1984m#@ayk1984m#51.075#51.375
@@ -105,14 +105,14 @@
 102	и	и	CCONJ	_	_	_	_	_	words@ayk1984m#@ayk1984m#54.075#54.375
 103	обнаружил	обнаружить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ayk1984m#@ayk1984m#54.375#54.675
 104	что	что	SCONJ	_	_	_	_	_	words@ayk1984m#@ayk1984m#54.675#54.975
-105	никто	никто	PRON	_	Animacy=An|Case=Nom	_	_	_	words@ayk1984m#@ayk1984m#54.975#55.275
+105	никто	никто	PRON	_	Animacy=Anim|Case=Nom	_	_	_	words@ayk1984m#@ayk1984m#54.975#55.275
 106	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	_	_	_	words@ayk1984m#@ayk1984m#55.275#55.575
 107	не	не	PART	_	_	_	_	_	words@ayk1984m#@ayk1984m#55.575#55.875
 108	объясняет	объяснять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ayk1984m#@ayk1984m#55.875#56.175
 109	откуда	откуда	ADV	_	Degree=Pos	_	_	_	words@ayk1984m#@ayk1984m#56.175#56.475
 110	эти	этот	DET	_	Animacy=Inan|Case=Nom|Number=Plur	_	_	_	words@ayk1984m#@ayk1984m#56.475#56.775
 111	ебучие	ебучий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@ayk1984m#@ayk1984m#56.775#57.075
-112	комки	комок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur 	_	_	_	words@ayk1984m#@ayk1984m#57.075#57.375
+112	комки	комок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@ayk1984m#@ayk1984m#57.075#57.375
 113	в	в	ADP	_	_	_	_	_	words@ayk1984m#@ayk1984m#57.375#57.675
 114	манной	манный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#57.675#57.975
 115	каше	каша	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#57.975#58.275
@@ -258,7 +258,7 @@
 255	/	/	PUNCT	_	_	_	_	_	words@ayk1984m#@ayk1984m#120.772#121.038
 256	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@ayk1984m#@ayk1984m#122.096#122.402
 257	об...	образовываться	ADJ	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ayk1984m#@ayk1984m#122.402#122.708
-258	слепляются	слепляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Rcp	_	_	_	words@ayk1984m#@ayk1984m#122.708#123.014
+258	слепляются	слепляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ayk1984m#@ayk1984m#122.708#123.014
 259	и	и	CCONJ	_	_	_	_	_	words@ayk1984m#@ayk1984m#123.014#123.32
 260	образуются	образовываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ayk1984m#@ayk1984m#123.32#123.626
 261	в	в	ADP	_	_	_	_	_	words@ayk1984m#@ayk1984m#123.626#123.932
