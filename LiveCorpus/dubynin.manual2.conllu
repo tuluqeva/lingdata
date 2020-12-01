@@ -42,8 +42,8 @@
 42	ответа	ответ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@mvs1985m#@mvs1985m#9.327#9.55
 43	не	не	PART	_	_	_	_	_	words@mvs1985m#@mvs1985m#9.55#9.773
 44	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@mvs1985m#@mvs1985m#9.773#9.996
-45	/	/	PUNCT	_	_	_	_	words@mvs1985m#@mvs1985m#9.996#10.219
-46	/	/	PUNCT	_	_	_	_	words@mvs1985m#@mvs1985m#10.219#10.442
+45	/	/	PUNCT	_	_	_	_ _ _	words@mvs1985m#@mvs1985m#9.996#10.219
+46	/	/	PUNCT	_	_	_	_ _ _	words@mvs1985m#@mvs1985m#10.219#10.442
 47	вот	вот	PART	_	_	_	_	_	words@mvs1985m#@mvs1985m#10.442#10.665
 48	ааа	ааа	INTJ	_	_	_	_	_	words@mvs1985m#@mvs1985m#10.665#10.888
 49	в	в	ADP	_	_	_	_	_	words@mvs1985m#@mvs1985m#10.888#11.111
