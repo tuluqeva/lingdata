@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-01T18:32:23+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-26T13:24:37+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/1/Desktop/eblan/kuji.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../eblan/kuji.mpg"/>
-        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///C:/Users/1/Desktop/eblan/kuji.mpg" MEDIA_URL="file:///C:/Users/1/Desktop/eblan/kuji.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../eblan/kuji.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/1/Desktop/eblan/kuji.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="./eblan/kuji.mpg"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///C:/Users/1/Desktop/eblan/kuji.mpg" MEDIA_URL="file:///C:/Users/1/Desktop/eblan/kuji.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./eblan/kuji.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8dcec9ed-1c9e-47a8-84fb-eb1a3c1a6e9e</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">8759</PROPERTY>
     </HEADER>
@@ -8461,22 +8461,22 @@
     <TIER ANNOTATOR="tuluqeva" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@tk1984m" TIER_ID="gesture@tk1984m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1376" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
-                <ANNOTATION_VALUE>вращение кистью (в руке небольшой предмет,в конце жеста он падает) </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, вращение кистью (в руке небольшой предмет,в конце жеста он падает) </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1378" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts239">
-                <ANNOTATION_VALUE>раскрытие ладони (лежащей на столе) в сторону собеседника </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, раскрытие ладони (лежащей на столе) в сторону собеседника </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1379" TIME_SLOT_REF1="ts285" TIME_SLOT_REF2="ts290">
-                <ANNOTATION_VALUE>постукивание ребром ладони по столу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, постукивание ребром ладони по столу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1381" TIME_SLOT_REF1="ts333" TIME_SLOT_REF2="ts334">
-                <ANNOTATION_VALUE>покачивание рукой  на уровне стола </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, покачивание на уровне стола </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8486,32 +8486,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1384" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
-                <ANNOTATION_VALUE>покачивание кистью с направленными на собеседника пальцами</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, покачивание кистью с направленными на собеседника пальцами</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1388" TIME_SLOT_REF1="ts575" TIME_SLOT_REF2="ts600">
-                <ANNOTATION_VALUE>полный оборот рукой (описанная в воздухе перед собой окружность)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, полный оборот (описанная в воздухе перед собой окружность)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1390" TIME_SLOT_REF1="ts710" TIME_SLOT_REF2="ts712">
-                <ANNOTATION_VALUE>рука с поднятым указательным пальцем</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, поднятый указательный палец</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1391" TIME_SLOT_REF1="ts713" TIME_SLOT_REF2="ts714">
-                <ANNOTATION_VALUE>два движения рукой по траектории вверх - вниз</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, два движения по траектории вверх - вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1393" TIME_SLOT_REF1="ts715" TIME_SLOT_REF2="ts717">
-                <ANNOTATION_VALUE>направленные вниз пальцы, прикосновение к столу перед собой, движение в сторону</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, направленные вниз пальцы, прикосновение к столу перед собой, движение в сторону</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1398" TIME_SLOT_REF1="ts720" TIME_SLOT_REF2="ts722">
-                <ANNOTATION_VALUE>направленные вниз пальцы, прикосновения к столу перед собой,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, направленные вниз пальцы, прикосновения к столу перед собой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8526,139 +8526,139 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1402" TIME_SLOT_REF1="ts727" TIME_SLOT_REF2="ts728">
-                <ANNOTATION_VALUE>соединение рук в замок в воздухе</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>соединение обеих рук в замок в воздухе</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1403" TIME_SLOT_REF1="ts774" TIME_SLOT_REF2="ts776">
-                <ANNOTATION_VALUE>взмах (сверху вниз) руками с направленными вниз ладонями </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>взмах (сверху вниз) обеими руками с направленными вниз ладонями </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1406" TIME_SLOT_REF1="ts777" TIME_SLOT_REF2="ts778">
-                <ANNOTATION_VALUE>движение руками с полусогнутыми пальцами в направлении одна к другой (как бы обхватывая шарообразный предмет)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>движение обеими руками с полусогнутыми пальцами в направлении одна к другой (как бы обхватывая шарообразный предмет)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1610" TIME_SLOT_REF1="ts1015" TIME_SLOT_REF2="ts1022">
-                <ANNOTATION_VALUE>направленный в сторону собеседника указательный палец</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, направленный в сторону собеседника указательный палец</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1407" TIME_SLOT_REF1="ts1051" TIME_SLOT_REF2="ts1087">
-                <ANNOTATION_VALUE>взмахи (в направлении собеседника) рукой с поднятым указательным пальцем </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, взмахи (в направлении собеседника) с поднятым указательным пальцем </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1613" TIME_SLOT_REF1="ts1093" TIME_SLOT_REF2="ts1094">
-                <ANNOTATION_VALUE>взмах (сверху вниз) рукой с направленным на собеседника указательным пальцем</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, взмах (сверху вниз) с направленным на собеседника указательным пальцем</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1410" TIME_SLOT_REF1="ts1522" TIME_SLOT_REF2="ts1523">
-                <ANNOTATION_VALUE>направленные вниз пальцы,прикосновение к столу два раза</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, направленные вниз пальцы,прикосновение к столу два раза</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="tuluqeva" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gesture@tk1984m" PARTICIPANT="@tk1984m" TIER_ID="gestMeaning@tk1984m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1377" ANNOTATION_REF="a1376">
-                <ANNOTATION_VALUE>поддержание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, поддчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1380" ANNOTATION_REF="a1378">
-                <ANNOTATION_VALUE>вопрос</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, вопрос</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1382" ANNOTATION_REF="a1379">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1385" ANNOTATION_REF="a1381">
-                <ANNOTATION_VALUE>выделение слова во фразе</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, выделение слова </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1386" ANNOTATION_REF="a1383">
-                <ANNOTATION_VALUE>эмоциональное выделение фразы, обращение к собеседнику</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния, эмоциональное выделение фразы, обращение к собеседнику</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1387" ANNOTATION_REF="a1384">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы, обращение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы, обращение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1389" ANNOTATION_REF="a1388">
-                <ANNOTATION_VALUE>обозначение одного действия из последовательности</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание перечисления, обозначение  одного действия из последовательности</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1392" ANNOTATION_REF="a1390">
-                <ANNOTATION_VALUE>привлечение внимания собеседника перед важной частью высказывания</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, привлечение внимания собеседника перед важной частью высказывания</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1394" ANNOTATION_REF="a1391">
-                <ANNOTATION_VALUE>отражение двух действий из последовательности</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание перечисления, обозначение  двух  действий из последовательности</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1395" ANNOTATION_REF="a1393">
-                <ANNOTATION_VALUE>изображение предмета (кастрюля) и действия (откладывать)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный -  предмет (кастрюля) и действие (откладывать)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1400" ANNOTATION_REF="a1398">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы, изображение предмета (кастрюля)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, изобразительный, подчеркивание ритма фразы, изображение предмета (кастрюля)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1401" ANNOTATION_REF="a1399">
-                <ANNOTATION_VALUE>изображение процесса (соединение, химический обмен)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (соединение, химический обмен)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1611" ANNOTATION_REF="a1609">
-                <ANNOTATION_VALUE>обозначение объекта (каша)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - предмет (каша)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1404" ANNOTATION_REF="a1402">
-                <ANNOTATION_VALUE>изображение действия (воссоединить)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - действие (воссоединить)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1405" ANNOTATION_REF="a1403">
-                <ANNOTATION_VALUE>эмоциональное выделение фразы, возражение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, выделение фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1408" ANNOTATION_REF="a1406">
-                <ANNOTATION_VALUE>изображение двух объектов (жидкость и каша) и процесса (привыкание друг к другу)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный -  объекты (жидкость и каша) и процесс (привыкание друг к другу)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1612" ANNOTATION_REF="a1610">
-                <ANNOTATION_VALUE>обозначение комментария к  реплике собеседника</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, обозначение комментария к  реплике собеседника</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1409" ANNOTATION_REF="a1407">
-                <ANNOTATION_VALUE>обращение, выделение части фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, дейктический, обращение, выделение части фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1614" ANNOTATION_REF="a1613">
-                <ANNOTATION_VALUE>обращение,  побуждение к действию (императив "ну давай")</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, обращение,  побуждение к действию (императив "ну давай")</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1411" ANNOTATION_REF="a1410">
-                <ANNOTATION_VALUE>выделение ключевых частей предложения</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, выделение ключевых частей предложения</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -8670,7 +8670,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1416" TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts242">
-                <ANNOTATION_VALUE>рубящие движения руками на уровне стола</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>рубящие движения обеими руками на уровне стола</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8680,57 +8680,57 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1418" TIME_SLOT_REF1="ts245" TIME_SLOT_REF2="ts246">
-                <ANNOTATION_VALUE>движения вверх-вниз одной рукой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, взмахи вверх-вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1419" TIME_SLOT_REF1="ts247" TIME_SLOT_REF2="ts248">
-                <ANNOTATION_VALUE>щелчок пальцами, взмах той же рукой в  направлении собеседника рукой с поднятым указательным пальцем</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>права рука, щелчок пальцами, взмах той же рукой в  направлении собеседника рукой с поднятым указательным пальцем</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1420" TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts250">
-                <ANNOTATION_VALUE>ладонь параллельна столу,резкое движение в сторону от себя</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, ладонь параллельна столу,резкое движение в сторону от себя</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1421" TIME_SLOT_REF1="ts251" TIME_SLOT_REF2="ts252">
-                <ANNOTATION_VALUE>руки на уровне стола, ладони одна напротив другой,покачивания</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обе руки на уровне стола, ладони одна напротив другой,покачивания</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1428" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts289">
-                <ANNOTATION_VALUE>вытянутая в сторону собеседника рука </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, вытянутая в сторону собеседника </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1430" TIME_SLOT_REF1="ts295" TIME_SLOT_REF2="ts300">
-                <ANNOTATION_VALUE>рука с поднятым указательным пальцем</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, поднятый указательный палец</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1431" TIME_SLOT_REF1="ts322" TIME_SLOT_REF2="ts324">
-                <ANNOTATION_VALUE>рука с поднятым указательным пальцем</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, поднятый указательный палец</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1432" TIME_SLOT_REF1="ts346" TIME_SLOT_REF2="ts347">
-                <ANNOTATION_VALUE>короткий взмах рукой (сверху вниз)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, короткий взмах (сверху вниз)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1436" TIME_SLOT_REF1="ts421" TIME_SLOT_REF2="ts424">
-                <ANNOTATION_VALUE>вытянутая в сторону собеседника рука</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, вытянутая в сторону собеседника</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1437" TIME_SLOT_REF1="ts425" TIME_SLOT_REF2="ts429">
-                <ANNOTATION_VALUE>руки почти лежат на столе, ладони одна напротив другой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обе руки почти лежат на столе, ладони одна напротив другой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1438" TIME_SLOT_REF1="ts430" TIME_SLOT_REF2="ts432">
-                <ANNOTATION_VALUE>взмахи (сверху вниз) рукой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, взмахи (сверху вниз)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8745,32 +8745,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1445" TIME_SLOT_REF1="ts478" TIME_SLOT_REF2="ts479">
-                <ANNOTATION_VALUE>взмахи (сверху вниз) руками</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>взмахи (сверху вниз) обеими руками</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1448" TIME_SLOT_REF1="ts480" TIME_SLOT_REF2="ts481">
-                <ANNOTATION_VALUE>взмахи (сверху вниз) сложенной в кулак рукой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, взмахи (сверху вниз) кулаком</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1449" TIME_SLOT_REF1="ts549" TIME_SLOT_REF2="ts550">
-                <ANNOTATION_VALUE>руки с соединенными (кончиками) пальцами несколько раз касаются и отдаляются</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обе руки с соединенными (кончиками) пальцами несколько раз касаются и отдаляются</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1451" TIME_SLOT_REF1="ts551" TIME_SLOT_REF2="ts552">
-                <ANNOTATION_VALUE>направленный на собеедника указательный палец</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, направленный на собеедника указательный палец</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1452" TIME_SLOT_REF1="ts553" TIME_SLOT_REF2="ts554">
-                <ANNOTATION_VALUE>вращение рукой  с согнутым указательным пальцем</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, вращение кистью  с согнутым указательным пальцем</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1453" TIME_SLOT_REF1="ts555" TIME_SLOT_REF2="ts556">
-                <ANNOTATION_VALUE>направленный вниз и в сторону указательный палец</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, направленный вниз и в сторону указательный палец</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8795,17 +8795,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1463" TIME_SLOT_REF1="ts565" TIME_SLOT_REF2="ts566">
-                <ANNOTATION_VALUE>рука с согнутыми пальцами</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, согнутые пальцы</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1468" TIME_SLOT_REF1="ts567" TIME_SLOT_REF2="ts568">
-                <ANNOTATION_VALUE>резкое движение с поворотом ладони по U-образной траектории</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, резкое движение с поворотом ладони по U-образной траектории</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1469" TIME_SLOT_REF1="ts569" TIME_SLOT_REF2="ts570">
-                <ANNOTATION_VALUE>несколько раз кончики пальцев быстро соприкасаются и разъединяются</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, несколько раз кончики пальцев быстро соприкасаются и разъединяются</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8815,7 +8815,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1473" TIME_SLOT_REF1="ts573" TIME_SLOT_REF2="ts574">
-                <ANNOTATION_VALUE>сжимающие движения расслабленными пальцами (с небольшой амплитудой)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, сжимающие движения расслабленными пальцами (с небольшой амплитудой)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8835,7 +8835,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1479" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts711">
-                <ANNOTATION_VALUE>поднятый указательный палец</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, поднятый указательный палец</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8850,37 +8850,37 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1488" TIME_SLOT_REF1="ts729" TIME_SLOT_REF2="ts730">
-                <ANNOTATION_VALUE>раскрытая ладонь с прямыми пальцами на уровне стола направлена вниз</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, раскрытая ладонь с прямыми пальцами на уровне стола направлена вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1489" TIME_SLOT_REF1="ts773" TIME_SLOT_REF2="ts775">
-                <ANNOTATION_VALUE>рука с направленными на собеседника прямыми пальцами</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, направленные на собеседника прямые пальцы</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1525" TIME_SLOT_REF1="ts779" TIME_SLOT_REF2="ts968">
-                <ANNOTATION_VALUE>раскрытая ладонь ребром на столе, рубящие движения</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, раскрытая ладонь ребром на столе, рубящие движения</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1526" TIME_SLOT_REF1="ts970" TIME_SLOT_REF2="ts971">
-                <ANNOTATION_VALUE>большой и указательный пальцы сложены, два взмаха (сверху вниз) рукой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, большой и указательный пальцы сложены, два взмаха (сверху вниз)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1527" TIME_SLOT_REF1="ts972" TIME_SLOT_REF2="ts973">
-                <ANNOTATION_VALUE>направленный на собеседника указательный палец</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, направленный на собеседника указательный палец</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1528" TIME_SLOT_REF1="ts974" TIME_SLOT_REF2="ts975">
-                <ANNOTATION_VALUE>согнутые пальцы, ладонь перпедикулярна столу,движения указательного пальца (на и от себя)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, согнутые пальцы, ладонь перпедикулярна столу, движения указательного пальца (на и от себя)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1529" TIME_SLOT_REF1="ts976" TIME_SLOT_REF2="ts977">
-                <ANNOTATION_VALUE>большой и указательный пальцы потираются</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>большой и указательный пальцы обеих рук потираются</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8890,17 +8890,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1531" TIME_SLOT_REF1="ts980" TIME_SLOT_REF2="ts981">
-                <ANNOTATION_VALUE>направленные вниз пальцы, вращение кистью</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, направленные вниз пальцы, вращение кистью</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1532" TIME_SLOT_REF1="ts982" TIME_SLOT_REF2="ts983">
-                <ANNOTATION_VALUE>указательный палец стоит на столе</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, указательный палец стоит на столе</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1533" TIME_SLOT_REF1="ts984" TIME_SLOT_REF2="ts985">
-                <ANNOTATION_VALUE>раскрытая ладонь, движение рукой в сторону параллельно столу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, раскрытая ладонь, движение в сторону параллельно столу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8935,7 +8935,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1540" TIME_SLOT_REF1="ts998" TIME_SLOT_REF2="ts999">
-                <ANNOTATION_VALUE>ладонь одной руки параллельна столу, движения рукой вверх-вниз</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ладонь правой руки параллельна столу, движения вверх-вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8945,12 +8945,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1542" TIME_SLOT_REF1="ts1002" TIME_SLOT_REF2="ts1003">
-                <ANNOTATION_VALUE>взмах одной рукой (снизу вверх)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука, взмах (снизу вверх)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1561" TIME_SLOT_REF1="ts1004" TIME_SLOT_REF2="ts1005">
-                <ANNOTATION_VALUE>несколько раз соединение кончиков и пальцев и их разведение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>соединение кончиков и пальцев и их разведение (несколько раз)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8965,7 +8965,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1566" TIME_SLOT_REF1="ts1010" TIME_SLOT_REF2="ts1011">
-                <ANNOTATION_VALUE>ладони обеих направлены на собеседника, короткое движение кистями вниз и от себя</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ладони обеих рук направлены на собеседника, короткое движение кистями вниз и от себя</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8975,47 +8975,47 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1573" TIME_SLOT_REF1="ts1014" TIME_SLOT_REF2="ts1053">
-                <ANNOTATION_VALUE>направленный вверх и в сторону собеседника указательный палец, покачивание рукой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, направленный вверх и в сторону собеседника указательный палец, покачивание</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1574" TIME_SLOT_REF1="ts1054" TIME_SLOT_REF2="ts1089">
-                <ANNOTATION_VALUE>приближение руки к лицу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, приближение к лицу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1578" TIME_SLOT_REF1="ts1090" TIME_SLOT_REF2="ts1091">
-                <ANNOTATION_VALUE>прикосновение ко лбу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, прикосновение ко лбу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1577" TIME_SLOT_REF1="ts1092" TIME_SLOT_REF2="ts1095">
-                <ANNOTATION_VALUE>рука на уровне плеча, покачивание вниз и в сторону собеседника</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, покачивание вниз и в сторону собеседника</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1579" TIME_SLOT_REF1="ts1096" TIME_SLOT_REF2="ts1097">
-                <ANNOTATION_VALUE>рука ребром на столе</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука ребром на столе</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1583" TIME_SLOT_REF1="ts1098" TIME_SLOT_REF2="ts1099">
-                <ANNOTATION_VALUE>взмахи рукой (сверху вниз)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, взмахи (сверху вниз)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1585" TIME_SLOT_REF1="ts1164" TIME_SLOT_REF2="ts1172">
-                <ANNOTATION_VALUE>руки со скрещенными пальцами на столе, разведение больших пальцев, улыбка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обе руки со скрещенными пальцами на столе, разведение больших пальцев, улыбка</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1589" TIME_SLOT_REF1="ts1240" TIME_SLOT_REF2="ts1241">
-                <ANNOTATION_VALUE>руки со скрещенными пальцами на столе, разведение больших пальцев</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обе руки со скрещенными пальцами на столе, разведение больших пальцев</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1591" TIME_SLOT_REF1="ts1242" TIME_SLOT_REF2="ts1243">
-                <ANNOTATION_VALUE>короткие быстрые покачивания руками на уровне стола</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>короткие быстрые покачивания обеими руками на уровне стола</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9025,12 +9025,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1594" TIME_SLOT_REF1="ts1343" TIME_SLOT_REF2="ts1360">
-                <ANNOTATION_VALUE>указывающая на собеседника рука</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, указывающая на собеседника</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1596" TIME_SLOT_REF1="ts1361" TIME_SLOT_REF2="ts1362">
-                <ANNOTATION_VALUE>взмахи рукой (сверху вниз)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, взмахи (сверху вниз)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9040,94 +9040,94 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1600" TIME_SLOT_REF1="ts1448" TIME_SLOT_REF2="ts1449">
-                <ANNOTATION_VALUE>короткие покачивания руками на уровне стола</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>короткие покачивания обеими руками на уровне стола</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1601" TIME_SLOT_REF1="ts1450" TIME_SLOT_REF2="ts1451">
-                <ANNOTATION_VALUE>руки на столе ладонями вверх</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обе руки на столе ладонями вверх</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1605" TIME_SLOT_REF1="ts1458" TIME_SLOT_REF2="ts1459">
-                <ANNOTATION_VALUE>взмахи рукой в сторону собеседника (сверху вниз)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, взмахи в сторону собеседника (сверху вниз)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1606" TIME_SLOT_REF1="ts1520" TIME_SLOT_REF2="ts1521">
-                <ANNOTATION_VALUE>указание рукой на себя</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>левая рука, указание на себя</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="tuluqeva" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gesture@ayk1984m" PARTICIPANT="@ayk1984m" TIER_ID="gestMeaning@ayk1984m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1414" ANNOTATION_REF="a1412">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1422" ANNOTATION_REF="a1416">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1423" ANNOTATION_REF="a1417">
-                <ANNOTATION_VALUE>изображение действия (полезть в интернет)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный -  действие (полезть в интернет)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1424" ANNOTATION_REF="a1418">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1425" ANNOTATION_REF="a1419">
-                <ANNOTATION_VALUE>обозначение начала нового логического фрагмента  (цитаты), отражение указательного содержания фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, обозначение начала нового логического фрагмента  (цитаты), отражение императивной конструкции внутри цитаты</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1426" ANNOTATION_REF="a1420">
-                <ANNOTATION_VALUE>отражение отрицательной конструкции</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, отрицание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1427" ANNOTATION_REF="a1421">
-                <ANNOTATION_VALUE>подчеркивание вопросительной интонации и ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание вопросительной интонации и ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1429" ANNOTATION_REF="a1428">
-                <ANNOTATION_VALUE>выражение согласия со словами собеседника, одобрения</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, согласие со словами собеседника, одобрения</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1433" ANNOTATION_REF="a1430">
-                <ANNOTATION_VALUE>выделение фразы со значением предписания</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторичекий, выделение фразы со значением предписания</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1434" ANNOTATION_REF="a1431">
-                <ANNOTATION_VALUE>выделение фразы со значением предписания</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, выделение фразы со значением предписания</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1435" ANNOTATION_REF="a1432">
-                <ANNOTATION_VALUE>выражение несогласия с собеседником</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, выражение несогласия с собеседником</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1439" ANNOTATION_REF="a1436">
-                <ANNOTATION_VALUE>выражение согласия с собеседником, одобрения</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, согласие с собеседником, одобрение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1440" ANNOTATION_REF="a1437">
-                <ANNOTATION_VALUE>выделение фразы,начинающей новый логический фрагмент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, выделение фразы,начинающей новый логический фрагмент</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1441" ANNOTATION_REF="a1438">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9137,247 +9137,247 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1446" ANNOTATION_REF="a1444">
-                <ANNOTATION_VALUE>изображение процесса (образоваться)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (образоваться)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1447" ANNOTATION_REF="a1445">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1450" ANNOTATION_REF="a1448">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1454" ANNOTATION_REF="a1449">
-                <ANNOTATION_VALUE>изображение процесса (слепляться)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (слепляться)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1455" ANNOTATION_REF="a1451">
-                <ANNOTATION_VALUE>выделение начала нового логического фрагмента, привлечение внимания собеседника</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический,выделение начала нового логического фрагмента, привлечение внимания собеседника</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1456" ANNOTATION_REF="a1452">
-                <ANNOTATION_VALUE>изображение действия (перемешивать)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - действие (перемешивать)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1457" ANNOTATION_REF="a1453">
-                <ANNOTATION_VALUE>отражение указательного местоимения в реплике</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>дейктический, отражение указательного местоимения в реплике</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1460" ANNOTATION_REF="a1458">
-                <ANNOTATION_VALUE>изображение свойства (неравномерность) и величины (температурный градиент)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - свойство (неравномерность) и величины (температурный градиент)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1464" ANNOTATION_REF="a1459">
-                <ANNOTATION_VALUE>изображение места в пространстве (у стенок)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - место в пространстве (у стенок)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1465" ANNOTATION_REF="a1461">
-                <ANNOTATION_VALUE>изображение места в пространстве (внизу,на дне)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - место в пространстве (внизу,на дне)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1466" ANNOTATION_REF="a1462">
-                <ANNOTATION_VALUE>изображение процесса (тепло идет)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (тепло идет)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1467" ANNOTATION_REF="a1463">
-                <ANNOTATION_VALUE>изображение свойства (густой)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - свойство (густой)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1470" ANNOTATION_REF="a1468">
-                <ANNOTATION_VALUE>изображение действия (цеплять)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный, действие (цеплять)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1472" ANNOTATION_REF="a1469">
-                <ANNOTATION_VALUE>изображение предмета (комок)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - предмет (комок)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1474" ANNOTATION_REF="a1471">
-                <ANNOTATION_VALUE>изображение процесса (обрастать)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (обрастать)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1475" ANNOTATION_REF="a1473">
-                <ANNOTATION_VALUE>изображение процесса (обрастать)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (обрастать)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1477" ANNOTATION_REF="a1476">
-                <ANNOTATION_VALUE>утвердительный ответ на вопрос, выражение внимания к собеседнику</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, утвердительный ответ на вопрос, выражение внимания к собеседнику</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1485" ANNOTATION_REF="a1482">
-                <ANNOTATION_VALUE>выражение внимания к собеседнику</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, выражение внимания к собеседнику</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1480" ANNOTATION_REF="a1478">
-                <ANNOTATION_VALUE>отрицательный ответ на вопрос</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, отрицательный ответ на вопрос</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1481" ANNOTATION_REF="a1479">
-                <ANNOTATION_VALUE>выражение готовности возразить собеседнику</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, выражение готовности возразить собеседнику</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1486" ANNOTATION_REF="a1483">
-                <ANNOTATION_VALUE>выражение внимания к собеседнику</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие,  выражение внимания к собеседнику</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1487" ANNOTATION_REF="a1484">
-                <ANNOTATION_VALUE>утвердительный ответ на вопрос</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, утвердительный ответ на вопрос</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1490" ANNOTATION_REF="a1488">
-                <ANNOTATION_VALUE>выражение согласия с собеседником, отсутствия возражений</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, выражение согласия с собеседником, отсутствия возражений</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1492" ANNOTATION_REF="a1489">
-                <ANNOTATION_VALUE>готовность начать реплику</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, готовность начать реплику</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1543" ANNOTATION_REF="a1525">
-                <ANNOTATION_VALUE>обозначение последовательности действий</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание перечисления, обозначение последовательности действий</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1544" ANNOTATION_REF="a1526">
-                <ANNOTATION_VALUE>выделение ключевых слов</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, выделение к лючевых слов</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1545" ANNOTATION_REF="a1527">
-                <ANNOTATION_VALUE>выделение понятия, уже упоминавшегося в разговоре</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, выделение понятия, уже упоминавшегося в разговоре</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1546" ANNOTATION_REF="a1528">
-                <ANNOTATION_VALUE>изображение действия (сыпать через ситечко)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - действие (сыпать через ситечко)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1547" ANNOTATION_REF="a1529">
-                <ANNOTATION_VALUE>изображение свойста процесса (падать по чуть-чуть )</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (падать по чуть-чуть )</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1548" ANNOTATION_REF="a1530">
-                <ANNOTATION_VALUE>отражение процесса обдумывания предложения и подбора слов</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния, отражение процесса обдумывания предложения и подбора слов</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1549" ANNOTATION_REF="a1531">
-                <ANNOTATION_VALUE>изображение действия (перемешивать)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - действие (перемешивать)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1550" ANNOTATION_REF="a1532">
-                <ANNOTATION_VALUE>изображение объекта (дно)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - часть предмета (дно)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1551" ANNOTATION_REF="a1533">
-                <ANNOTATION_VALUE>изображение объекта, его свойства (идеальная каша)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - объект, его свойство (идеальная каша)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1552" ANNOTATION_REF="a1534">
-                <ANNOTATION_VALUE>изображение процесса (кипеть)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (кипеть)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1553" ANNOTATION_REF="a1535">
-                <ANNOTATION_VALUE>изображение процесса (фазовый переход)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (фазовый переход)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1554" ANNOTATION_REF="a1536">
-                <ANNOTATION_VALUE>изображение состояния вещества (неньютоновская жидкость)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - состояние вещества (неньютоновская жидкость)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1555" ANNOTATION_REF="a1537">
-                <ANNOTATION_VALUE>выделение слова</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, выделение слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1556" ANNOTATION_REF="a1538">
-                <ANNOTATION_VALUE>изображение  вещества (жидкость, содержащая частички)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный -  вещество (жидкость, содержащая частички)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1557" ANNOTATION_REF="a1539">
-                <ANNOTATION_VALUE>изображение состояния вещества (неньютоновская жидкость)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - состояние вещества (неньютоновская жидкость)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1558" ANNOTATION_REF="a1540">
-                <ANNOTATION_VALUE>изображение отношения (зависимость двух величин), выделение ключевого слова </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный, риторический -  отношение (зависимость двух величин), выделение ключевого слова </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1559" ANNOTATION_REF="a1541">
-                <ANNOTATION_VALUE>изображение вещества (неньютоновская жидкость)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - вещество (неньютоновская жидкость)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1560" ANNOTATION_REF="a1542">
-                <ANNOTATION_VALUE>выделение примера </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, выделение примера </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1562" ANNOTATION_REF="a1561">
-                <ANNOTATION_VALUE>изображение объектов (пузырьки)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - объекты (пузырьки)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1564" ANNOTATION_REF="a1563">
-                <ANNOTATION_VALUE>изображение процесса (стать, прийти в какое-то состояние)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - процесс (стать, прийти в какое-то состояние)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1568" ANNOTATION_REF="a1565">
-                <ANNOTATION_VALUE>изображение действия (выключить)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - действие (выключить)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1569" ANNOTATION_REF="a1566">
-                <ANNOTATION_VALUE>изображение действия (закрыть)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - действие (закрыть)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1570" ANNOTATION_REF="a1567">
-                <ANNOTATION_VALUE>изображение свойства (идеальный, готовый)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный - свойство (идеальный, готовый)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1575" ANNOTATION_REF="a1573">
-                <ANNOTATION_VALUE>обозначение перехода к новому логическому фрагменту, подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, обозначение перехода к новому логическому фрагменту, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1576" ANNOTATION_REF="a1574">
-                <ANNOTATION_VALUE>указание на себя, выделение фразы ("я" - подлежащее)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>дейктический, указание на себя, выделение субъекта предложения</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9387,32 +9387,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1581" ANNOTATION_REF="a1577">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы, указание на собеседника</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы, указание на собеседника</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1582" ANNOTATION_REF="a1579">
-                <ANNOTATION_VALUE>обозначение перехода к новому логическому фрагменту</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, обозначение перехода к новому логическому фрагменту</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1586" ANNOTATION_REF="a1583">
-                <ANNOTATION_VALUE>подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1588" ANNOTATION_REF="a1585">
-                <ANNOTATION_VALUE>ирония</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, обозначение иронии</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1590" ANNOTATION_REF="a1589">
-                <ANNOTATION_VALUE>обозначение начала фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, обозначение начала фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1592" ANNOTATION_REF="a1591">
-                <ANNOTATION_VALUE>поддержка речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>неясно</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9422,22 +9422,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1598" ANNOTATION_REF="a1594">
-                <ANNOTATION_VALUE>обозначение ответа на реплику собеседника</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, реакция на реплику собеседника</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1599" ANNOTATION_REF="a1596">
-                <ANNOTATION_VALUE>подчеркивание ритма части фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма части фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1602" ANNOTATION_REF="a1597">
-                <ANNOTATION_VALUE>обозначение реакции на реплику собеседника</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, обозначение начала ответа на реплику собеседника</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1603" ANNOTATION_REF="a1600">
-                <ANNOTATION_VALUE>подчеркивание ритма части фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, подчеркивание ритма части фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9447,12 +9447,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1607" ANNOTATION_REF="a1605">
-                <ANNOTATION_VALUE>привлечение внимание, подчеркивание ритма фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический, привлечение внимания, подчеркивание ритма фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1608" ANNOTATION_REF="a1606">
-                <ANNOTATION_VALUE>признание  своей ошибки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>речевое действие, признание  своей ошибки</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
