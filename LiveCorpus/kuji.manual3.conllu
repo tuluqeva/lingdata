@@ -1126,7 +1126,7 @@
 1126	вот	вот	PART	_	_	_	_	_	words@tk1984m#@tk1984m#264.539#264.815
 1127	в	в	ADP	_	_	_	_	_	words@tk1984m#@tk1984m#264.815#265.091
 1128	две	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Fem	_	_	_	words@tk1984m#@tk1984m#265.091#265.367
-1129	тыщи	тыcяча	NUM	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@tk1984m#@tk1984m#265.367#265.643
+1129	тыщи	тысяча	NUM	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@tk1984m#@tk1984m#265.367#265.643
 1130	двадцатом	двадцатый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@tk1984m#@tk1984m#265.643#265.919
 1131	надо	надо	VERB	_	_	_	_	_	words@tk1984m#@tk1984m#265.919#266.195
 1132	типа	типа	PART	_	_	_	_	_	words@tk1984m#@tk1984m#266.195#266.471
